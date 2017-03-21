@@ -1,26 +1,24 @@
 /******************************************************************************
  * NTRU Cryptography Reference Source Code
- * Copyright (c) 2009-2013, by Security Innovation, Inc. All rights reserved. 
  *
- * ntru_crypto_crypto_sha1.h is a component of ntru-crypto.
+ * Copyright (C) 2009-2016  Security Innovation (SI)
  *
- * Copyright (C) 2009-2013  Security Innovation
- * 
- * This program is free software; you can redistribute it and/or
- * modify it under the terms of the GNU General Public License
- * as published by the Free Software Foundation; either version 2
- * of the License, or (at your option) any later version.
- * 
+ * SI has dedicated the work to the public domain by waiving all of its rights
+ * to the work worldwide under copyright law, including all related and
+ * neighboring rights, to the extent allowed by law.
+ *
+ *
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
- * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License for more details.
- * 
- * You should have received a copy of the GNU General Public License
- * along with this program; if not, write to the Free Software
- * Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+ * You can copy, modify, distribute and perform the work, even for commercial
+ * purposes, all without asking permission. You should have received a copy of
+ * the creative commons license (CC0 4.0 universal) along with this program.
+ * See the license file for more information. 
  *
- *****************************************************************************/
+ *
+ *********************************************************************************/
+ 
  
 /******************************************************************************
  *
